@@ -24,3 +24,8 @@ Setting package.json untuk kustomisasi perintah run dan melakukan seeder ke data
 
 ![alt image](images/Soal3.1.png)
 
+### **Soal 4 : Capture hasil query Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?**
+
+Mengecek apakah data yang telah dibuat sebelumnya sudah terbaca pada dashboard dan mencoba melakukan query sederhana dimana mencari nama customer nama dan tagihan berdasarkan customer id.
+
+![alt image](images/Soal4.png)
