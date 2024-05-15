@@ -16,4 +16,11 @@ Menjelaskan cara membuat database baru menggunakan PosgreSQL, mengkonfigurasi da
 
 ![alt image](images/Soal2.1.png)
 
+### **Soal 3 : Capture hasil npm run seed Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?**
+
+Setting package.json untuk kustomisasi perintah run dan melakukan seeder ke database.
+
+![alt image](images/Soal3.png)
+
+![alt image](images/Soal3.1.png)
 
